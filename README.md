@@ -1,2 +1,3 @@
-# laravel-11-crud
-Learning latest Laravel version 11. Crud Operations using Laravel 11.
+# laravel-11-crud  Crud Operations
+
+ Laravel 11 have many updated features.
